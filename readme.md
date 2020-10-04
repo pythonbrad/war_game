@@ -1,2 +1,2 @@
 # Little war game
-![Image](https://github.com/pythonbrad/traffic_simulator/blob/master/snapshot.jpg)
+![Image](https://github.com/pythonbrad/war_game/blob/master/screen.png)
